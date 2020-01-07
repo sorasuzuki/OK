@@ -8,3 +8,6 @@ function startfnc(){setInterval("hyoji()",1000);}
 function mes1(){alert("3秒経ちました!");}
 
 function mes2(){document.getElementById('logo2').src='./image/josai2.png';}
+
+function imgchange3(){document.getElementById('logo3').src='./image/josai2.png';}
+
